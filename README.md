@@ -4,7 +4,7 @@ I build and ship web products from Node.js backends and React interfaces to clou
 
 **What I'm learning**<br>
 I'm studying part-time for a [BSc in Mathematics at The Open University](https://www.open.ac.uk/courses/maths/degrees/bsc-mathematics-q31/), with a particular interest in pure mathematics.<br>
-Alongside my degree, I'm deepening my knowledge of system design, cloud infrastructure, DevOps, and orchestration.
+Alongside, I am deepening my knowledge of platform engineering, distributed systems, and system design, with a focus on cloud infrastructure, CI/CD, observability, orchestration, and core systems fundamentals.
 
 **Personal life**<br>
 I'm a father to a daughter and two sons, with another son on the way. Their mother and I are happily raising our family together.<br>
