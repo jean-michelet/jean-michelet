@@ -1,5 +1,5 @@
 **What I do**<br>
-I'm a software and cloud developer and a [Fastify](https://fastify.dev/) core contributor.<br>
+I'm a software and cloud developer and a Fastify core contributor. I've paused my open-source contributions for now.<br>
 I build and ship web products from Node.js backends and React interfaces to cloud infrastructure and CI/CD.
 
 **What I'm learning**<br>
